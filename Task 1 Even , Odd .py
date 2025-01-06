@@ -3,6 +3,8 @@
 #ex:
 #input:15
 #output:odd number
+#input:20
+#ouput:Even number
 
 
 a=int(input("Enter the number:"))
